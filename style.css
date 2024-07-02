@@ -216,15 +216,15 @@ h5 {
 @media only screen and (min-width: 601px) and (max-width: 1024px) {
     /* Adjustments for medium screens */
     h2 {
-        font-size: 26px;
+        font-size: 28px;
         padding: 120px 7%;
     }
     h3 {
-        font-size: 24px;
+        font-size: 26px;
         padding: 0 7%;
     }
     p {
-        font-size: 18px;
+        font-size: 20px;
         padding: 20px 7%;
     }
     img {
@@ -244,7 +244,7 @@ h5 {
     }
 
     .Links {
-        margin-top: 0px; /* Adjust as needed */
+        margin-top: 5px; /* Adjust as needed */
     }
    .Links li {
         margin-bottom: 5%; /* Adjust spacing between list items */
