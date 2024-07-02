@@ -169,14 +169,12 @@ h5 {
         padding: 100px 5%;
     }
     h3 {
-        font-size: 30px;
+        font-size: 22px;
         padding: 0 5%;
-        margin-bottom: 50%;
     }
     p {
         font-size: 18px;
-        padding: 0px 5%;
-        margin-top: -20%;
+        padding: 15px 5%;
     }
     img {
         position: relative;
