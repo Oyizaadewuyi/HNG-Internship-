@@ -206,7 +206,7 @@ h5 {
         margin-left: 5%;
     }
 
-    .usefulLinks li{
+    .usefulLinks li a{
         margin-top: -15%;
     }
 }
@@ -227,9 +227,9 @@ h5 {
     }
     img {
         position: relative;
-        top: auto;
+        top: 20%;
         right: 5%;
-                margin-bottom: 20px;
+        margin-bottom: 20px;
     }
      /* .displayName, .displayName1 {
         margin-left: 7%;
