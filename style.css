@@ -236,7 +236,7 @@ h5 {
      .displayName, .displayName1 {
         margin-left: 20%;
         font-size: 18px;
-        margin-top: -5%;
+        margin-top: -3%;
     }  
 
     .currentInfo {
@@ -244,7 +244,7 @@ h5 {
     }
 
     .Links {
-        margin-top: 10px; /* Adjust as needed */
+        margin-top: 0px; /* Adjust as needed */
     }
    .Links li {
         margin-bottom: 10px; /* Adjust spacing between list items */
