@@ -48,7 +48,7 @@ p{
 P span {
     color: #ffa500;
     font-weight: 900;
-
+    
 }
 img {
 
@@ -63,14 +63,14 @@ img {
 .displayName {
     color:white;
     margin-top: 8%;
-    margin-left: 58%; 
+    margin-left: 56%; 
     font-size: 20px;
     font-family: Roboto,sans-serif;
 }
 
 .displayName1{
     color: white;
-     margin-left: 58%;
+     margin-left: 56%;
     margin-top: -50px;
     font-size: 20px;
     font-family: Roboto,sans-serif;
@@ -176,6 +176,8 @@ h5 {
         font-size: 18px;
         padding: 15px 5%;
     }
+
+
     img {
         position: relative;
         top: auto;
@@ -197,10 +199,14 @@ h5 {
 
     }
 
-    .currentInfo .info {
-        margin-top: -2%;
-        font-size:14px ;
+    .currentInfo {
+        margin-top: 2%;
+        font-size: 12px ;
         margin-left: 5%;
+    }
+
+    .usefulLinks{
+        margin-top: -15%;
     }
 }
 
@@ -225,10 +231,10 @@ h5 {
         max-width: 100%;
         margin-bottom: 20px;
     }
-     .displayName, .displayName1 {
+     /* .displayName, .displayName1 {
         margin-left: 7%;
         font-size: 18px;
-    } 
+    }  */
 }
 
 
@@ -253,8 +259,8 @@ h5 {
         top: 20%;
         right: 10%;
     }
-     .displayName, .displayName1 {
+     /* .displayName, .displayName1 {
         margin-left: 63%;
         font-size: 20px;
-    } 
+    }  */
 }
