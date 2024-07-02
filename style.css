@@ -235,10 +235,14 @@ h5 {
         margin-bottom: 20px;
     }
      .displayName, .displayName1 {
-        margin-left: 5%;
+        margin-left: 10%;
         font-size: 18px;
         margin-top: -5%;
     }  
+
+    .currentInfo {
+        margin-top: 5%;
+    }
 }
 
 
