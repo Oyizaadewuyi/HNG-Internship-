@@ -157,8 +157,8 @@ h5 {
 
 .usefulLinks li{
     text-decoration: none;
-    list-style-type: none;
     margin-top: -5%;
+    list-style: circle;
     
 }
 
@@ -204,6 +204,10 @@ h5 {
         margin-top: 2%;
         font-size: 12px ;
         margin-left: 5%;
+    }
+
+    h5 {
+        margin-top: 5%;
     }
 
     .usefulLinks li a{
@@ -254,13 +258,13 @@ h5 {
         font-size: 20px;
         padding: 20px 8%;
     }
-    img {
+    /* img {
         position: absolute;
         top: 20%;
         right: 10%;
     }
-     /* .displayName, .displayName1 {
-        margin-left: 63%;
+     /* .displayName, .displayName1 { */
+        /* margin-left: 63%;
         font-size: 20px;
     }  */
-}
+} 
