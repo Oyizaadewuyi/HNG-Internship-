@@ -155,7 +155,7 @@ h5 {
     
 } */
 
-.usefulLinks li{
+.Links li{
     text-decoration: none;
     margin-top: -5%;
     list-style: circle;
@@ -234,13 +234,17 @@ h5 {
         margin-bottom: 20px;
     }
      .displayName, .displayName1 {
-        margin-left: 8%;
+        margin-left: 15%;
         font-size: 18px;
         margin-top: -5%;
     }  
 
     .currentInfo {
         margin-top: 5%;
+    }
+
+    .Links {
+        margin-bottom: 20%;
     }
 
    
