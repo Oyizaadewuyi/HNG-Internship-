@@ -158,8 +158,7 @@ h5 {
 
 .Links li{
     text-decoration: none;
-    margin-top: -5%;
-    list-style: circle;
+       list-style: circle;
     
 }
 
@@ -210,6 +209,21 @@ h5 {
     h5 {
         margin-top: 5%;
     }
+
+    .Links {
+        margin-top: 5px; /* Adjust as needed */
+    }
+   .Links li {
+        margin-bottom: 5%; /* Adjust spacing between list items */
+    }
+    .Links a {
+        display: block;
+        padding: 8px 12px; /* Adjust padding for links */
+        margin-top: -5%; /* Adjust spacing between links */
+        color: blue; /* Adjust link color */
+        text-decoration: none;
+    }
+   
 
    
 }
