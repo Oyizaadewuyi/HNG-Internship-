@@ -252,7 +252,7 @@ h5 {
     .Links a {
         display: block;
         padding: 8px 12px; /* Adjust padding for links */
-        margin-bottom: -15%; /* Adjust spacing between links */
+        margin-top: 5%; /* Adjust spacing between links */
         color: blue; /* Adjust link color */
         text-decoration: none;
     }
