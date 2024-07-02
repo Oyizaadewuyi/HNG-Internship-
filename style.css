@@ -210,8 +210,7 @@ h5 {
         margin-top: 5%;
     }
 
-    .usefulLinks li a{
-    }
+   
 }
 
 @media only screen and (min-width: 601px) and (max-width: 1024px) {
@@ -231,11 +230,11 @@ h5 {
     img {
         position: relative;
         top: 20%;
-        right: -20%;
+        right: -25%;
         margin-bottom: 20px;
     }
      .displayName, .displayName1 {
-        margin-left: 10%;
+        margin-left: 12%;
         font-size: 18px;
         margin-top: -5%;
     }  
@@ -243,8 +242,14 @@ h5 {
     .currentInfo {
         margin-top: 5%;
     }
-}
 
+    .usefulLinks li{
+        text-decoration: none;
+        margin-top: -5%;
+        list-style: circle;
+    
+}
+}
 
 
 
