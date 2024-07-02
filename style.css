@@ -247,12 +247,12 @@ h5 {
         margin-top: 0px; /* Adjust as needed */
     }
    .Links li {
-        margin-bottom: 10%; /* Adjust spacing between list items */
+        margin-bottom: 20%; /* Adjust spacing between list items */
     }
     .Links a {
         display: block;
         padding: 8px 12px; /* Adjust padding for links */
-        margin-top: 5%; /* Adjust spacing between links */
+        margin-top: 3%; /* Adjust spacing between links */
         color: blue; /* Adjust link color */
         text-decoration: none;
     }
