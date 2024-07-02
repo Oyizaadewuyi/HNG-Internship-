@@ -159,7 +159,6 @@ h5 {
     text-decoration: none;
     list-style-type: none;
     margin-top: -5%;
-    color: blue;
     
 }
 
@@ -229,9 +228,8 @@ h5 {
     img {
         position: relative;
         top: auto;
-        right: auto;
-        margin-left: 10%;
-        margin-bottom: 20px;
+        right: 5%;
+                margin-bottom: 20px;
     }
      /* .displayName, .displayName1 {
         margin-left: 7%;
