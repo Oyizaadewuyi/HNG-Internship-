@@ -165,12 +165,13 @@ h5 {
 @media only screen and (max-width: 600px) {
     /* Adjustments for small screens */
     h2 {
-        font-size: 24px;
+        font-size: 30px;
         padding: 100px 5%;
     }
     h3 {
         font-size: 22px;
         padding: 0 5%;
+        margin-top: -5%;
     }
     p {
         font-size: 18px;
@@ -197,9 +198,10 @@ h5 {
 
     }
 
-    .currentInfo {
+    .currentInfo .info {
         margin-top: -2%;
         font-size:14px ;
+        margin-left: 5%;
     }
 }
 
