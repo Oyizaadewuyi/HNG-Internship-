@@ -234,7 +234,7 @@ h5 {
         margin-bottom: 20px;
     }
      .displayName, .displayName1 {
-        margin-left: 15%;
+        margin-left: 20%;
         font-size: 18px;
         margin-top: -5%;
     }  
@@ -244,9 +244,18 @@ h5 {
     }
 
     .Links {
-        margin-bottom: 20%;
+        margin-top: 10px; /* Adjust as needed */
     }
-
+   .Links li {
+        margin-bottom: 10px; /* Adjust spacing between list items */
+    }
+    .Links a {
+        display: block;
+        padding: 8px 12px; /* Adjust padding for links */
+        margin-bottom: 8px; /* Adjust spacing between links */
+        color: blue; /* Adjust link color */
+        text-decoration: none;
+    }
    
 }
 
